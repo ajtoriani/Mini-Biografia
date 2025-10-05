@@ -1,7 +1,7 @@
 # Mini Biografia
 
 ## Sobre o Projeto
-Este é um projeto simples, desenvolvido em **HTML Semantico**, com o objetivo de servir como uma mini página de apresentação pessoal. O projeto foi criado para consolidar conhecimentos básicos de front-end, focando na estruturação do conteúdo de forma clara e acessível.
+Este é um projeto simples, desenvolvido em **HTML Semântico**, com o objetivo de servir como uma mini página de apresentação pessoal. O projeto foi criado para consolidar conhecimentos básicos de front-end, focando na estruturação do conteúdo de forma clara e acessível.
 ## Funcionalidades
 *   Título de destaque com o nome do projeto.
 *   Seção de apresentação com uma breve biografia.
